@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Meu nome é Robert.</h1>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/S9Xo7A1m3_EAAAAd/one-piece-onigashima-arc.gif" width="600" alt="One Piece Gif">
+  <img src="https://api.iconify.design/logos:one-piece.svg?color=%23888888" width="120" alt="Logo One Piece SVG">
 </div>
 
 <br>
@@ -34,5 +34,5 @@
 <br>
 
 <div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
