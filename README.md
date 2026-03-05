@@ -1,8 +1,13 @@
-<h1 align="center"> Olá! Meu nome é Robert.</h1>
-
-<div align="center">
-  <img src="https://api.iconify.design/logos:one-piece.svg?color=%23888888" width="120" alt="Logo One Piece SVG">
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="center">
+      <img src="https://media.tenor.com/v6eujWktbsUAAAAj/luffy.gif" width="60" alt="Luffy">
+    </td>
+    <td align="left" valign="center">
+      <h1> Olá! Meu nome é Robert.</h1>
+    </td>
+  </tr>
+</table>
 
 <br>
 
